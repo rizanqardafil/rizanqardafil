@@ -13,13 +13,13 @@
 </p>
 
 ### Personal Stuff
-- 🔭 I’m currently working for [eFishery](https://github.com/eFishery);
+- 🔭 I’m currently working for [Sociolla](https://www.sociolla.com/);
 - 👨🏼‍💻 **Open for Freelance Project** slicing / convert design to a website
 - 👨‍🏫 Mentor Frontend Stuff at [MOFON](https://mentee.faldi.xyz)
-- 💻 All of my projects are available at [https://faldi.xyz/](https://faldi.xyz/project/)
+- 💻 All of my projects are available at [https://faldi.xyz/](https://rizanqardafil.vercel.app/)
 - 💬 Ask me about Javascript, CSS, UX Reasearch, and Scrum, I am happy to help;
 - 📝 I regulary write articles on [https://blog.cerita-faldi.xyz/](https://blog.cerita-faldi.xyz/)
-- 📫 How to reach me: [@f2aldi](https://twitter.com/f2aldi) or email me at **naufaldi.rafif@gmail.com**  ;
+- 📫 How to reach me: [@f2aldi](https://twitter.com/R1z4n) or email me at **rizanqardafil.dev@gmail.com**  ;
 
 
 ### Github Stats
