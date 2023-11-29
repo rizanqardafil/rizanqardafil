@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rizan Qardafil</h1>
+<h1 align="center">Hi 👋, I'm Rizan Qardafil ✨</h1>
 <h3 align="center">A Senior Software Engineer, Senior Artificial Intelligence, Senior Data Scientist and Analyst, An Mentor and A Blogger</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rizanqardafil" alt="rizanqardafil" /> </p>
@@ -58,7 +58,7 @@
     <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white"/>
   </p>
   
-### Github Stats
+### 💡 Github Stats
 <table>
   <thead>
     <tr>
@@ -76,6 +76,12 @@
     </tr>
   </thead>
 </table>
+
+<p align="center">
+    <a href="https://linkedin.com/in/rizanqardafil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naufaldi" height="30" width="30" /></a>
+    <a href="https://twitter.com/R1z4n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="naufaldi" height="30" width="30" /></a>
+    <a href="https://medium.com/@rizanqardafil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pbteja1998" height="30" width="30" /></a>    
+</p> 
 
 <!--  
 
