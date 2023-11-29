@@ -77,6 +77,30 @@
     <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white"/>
   </p>
 
+
+### 📊 Stats
+
+[![Metrics](./github-metrics.svg)](https://rizanqardafil.vercel.app/)
+
+## 👨🏻‍💻 WakaTime Stats
+
+<!--START_SECTION:waka-->
+
+```txt
+Total Time: 372 hrs 19 mins
+
+Python            142 hrs         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.14 %
+TypeScript        131 hrs 17 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.26 %
+Kotlin            35 hrs 19 mins  ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.49 %
+JavaScript        14 hrs 24 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.87 %
+Bash              10 hrs 32 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.83 %
+```
+
+<!--END_SECTION:waka-->
+
+---
+
+
 ### 💡 Github Stats
 
 <table>
@@ -97,12 +121,19 @@
   </thead>
 </table>
 
-<p align="center">
-    <a href="https://linkedin.com/in/rizanqardafil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naufaldi" height="30" width="30" /></a>
-    <a href="https://twitter.com/R1z4n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="naufaldi" height="30" width="30" /></a>
-    <a href="https://medium.com/@rizanqardafil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pbteja1998" height="30" width="30" /></a>    
-</p>
+---
 
+## 🔗 Connect with me
+
+<!-- png icons from https://iconscout.com/ -->
+<a href="https://xditya.me" class="padded"><img align="left" alt="https://xditya.me" width="28px" src="./res/website.png" /></a> 
+<a href="https://youtube.com/xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/youtube.png" /></a> 
+<a href="https://telegram.dog/xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/telegram.png" /></a> 
+<a href="https://twitter.com/its_xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/twitter.png" /></a> 
+<a href="https://linkedin.com/in/xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/linkedin.png" /></a> 
+</br>
+
+---
 <!--
 
 ### Github Stats
