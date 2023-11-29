@@ -15,10 +15,10 @@
 ### Personal Stuff
 - 🔭 I’m currently working for [Sociolla](https://www.sociolla.com/);
 - 👨🏼‍💻 **Open for Freelance Project** slicing / convert design to a website
-- 👨‍🏫 Mentor Frontend Stuff at [MOFON](https://mentee.faldi.xyz)
-- 💻 All of my projects are available at [https://faldi.xyz/](https://rizanqardafil.vercel.app/)
+- 👨‍🏫 Mentor Frontend Stuff at [MOFON]()
+- 💻 All of my projects are available at [https://rizanqardafil.vercel.app/](https://rizanqardafil.vercel.app/)
 - 💬 Ask me about Javascript, CSS, UX Reasearch, and Scrum, I am happy to help;
-- 📝 I regulary write articles on [https://blog.cerita-faldi.xyz/](https://blog.cerita-faldi.xyz/)
+- 📝 I regulary write articles on []()
 - 📫 How to reach me: [@f2aldi](https://twitter.com/R1z4n) or email me at **rizanqardafil.dev@gmail.com**  ;
 
 
