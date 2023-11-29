@@ -77,26 +77,6 @@
     <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white"/>
   </p>
 
----
-
-### 👨‍💻 LOC
-[![Lines of Code](https://api.githubtrends.io/user/svg/rizanqardafil/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://rizanqardafil.vercel.app/)
-
----
-
-### 🎵 Now playing
-
-[![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/fy7cl2uhcmaz5o0k0o0r6uwh7?si=536b321ff3f945b8)
-
----
-
-### 📋 Badges
-[![An image of @xditya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xditya)](https://holopin.io/@xditya)
-
----
-
-
-
 ### 💡 Github Stats
 
 <table>
