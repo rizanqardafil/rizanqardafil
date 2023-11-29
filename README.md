@@ -22,7 +22,6 @@
   </a>
 </p>
 
-
 ### Personal Stuff
 
 - 🔭 I’m currently working for [Sociolla](https://www.sociolla.com/);
@@ -97,11 +96,18 @@
   </thead>
 </table>
 
-<p align="center">
-    <a href="https://linkedin.com/in/rizanqardafil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naufaldi" height="30" width="30" /></a>
-    <a href="https://twitter.com/R1z4n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="naufaldi" height="30" width="30" /></a>
-    <a href="https://medium.com/@rizanqardafil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pbteja1998" height="30" width="30" /></a>    
-</p>
+---
+
+## 🔗 Connect with me
+
+<!-- png icons from https://iconscout.com/ -->
+
+<a href="https://https://rizanqardafil.vercel.app/" class="padded"><img align="left" alt="https://https://rizanqardafil.vercel.app/" width="28px" src="./res/website.png" /></a>
+<a href="https://youtube.com/rizanqardafil" class="padded"><img align="left" alt="rizanqardafil" width="28px" src="./res/youtube.png" /></a>
+<a href="https://telegram.dog/rizanqardafil" class="padded"><img align="left" alt="rizanqardafil" width="28px" src="./res/telegram.png" /></a>
+<a href="https://twitter.com/rizanqardafil" class="padded"><img align="left" alt="rizanqardafil" width="28px" src="./res/twitter.png" /></a>
+<a href="https://linkedin.com/in/rizanqardafil" class="padded"><img align="left" alt="rizanqardafil" width="28px" src="./res/linkedin.png" /></a>
+</br>
 
 <!--
 
