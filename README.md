@@ -32,6 +32,8 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white"/>
     <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
+    <img alt="Dart" src="https://img.shields.io/badge/Dart-1565C0?style=flat&logo=dart&logoColor=white"/>
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0D91D6?style=flat&logo=kotlin&logoColor=white"/>
     <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flate&logo=jquery&logoColor=white"/>
     <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
