@@ -58,26 +58,26 @@
     <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white"/>
   </p>
   
-<h3>💡 My Github Stats</h3>
+### Github Stats
 <table>
   <thead>
     <tr>
       <th width="500px">
-            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=assyatier21&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" />    
+            <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rizanqardafil&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" />    
       </th>
       <th width="500px">
-          <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=assyatier21&hide=CSS,Javascript,HTML&langs_count=6&layout=compact&count_private=true&theme=github_dark" />
+          <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rizanqardafil&hide=CSS,Javascript,HTML&langs_count=6&layout=compact&count_private=true&theme=github_dark" />
       </th>
     </tr>
     <tr>
        <th colspan="2">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Assyatier21&theme=tokyonight_duo&date_format=d%20M%20Y" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rizanqardafil&theme=tokyonight_duo&date_format=d%20M%20Y" />
        </th>
     </tr>
   </thead>
 </table>
 
- 
+<!--  
 
 ### Github Stats
 
@@ -89,4 +89,4 @@
     <a href="https://linkedin.com/in/rizanqardafil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naufaldi" height="30" width="30" /></a>
     <a href="https://twitter.com/R1z4n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="naufaldi" height="30" width="30" /></a>
     <a href="https://medium.com/@rizanqardafil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pbteja1998" height="30" width="30" /></a>    
-</p>
+</p> -->
