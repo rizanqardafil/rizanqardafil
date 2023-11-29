@@ -54,6 +54,7 @@
     <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FFA000?style=flat&logo=tensorflow&logoColor=white"/>
     <img alt="Numpy" src="https://img.shields.io/badge/Numpy-00ACC1?style=flat&logo=numpy&logoColor=white"/>
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-1A237E?style=flat&logo=pandas&logoColor=white"/>
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-212121?style=flat&logo=flask&logoColor=white"/>
   </p>
   <p>
     <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
