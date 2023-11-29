@@ -13,14 +13,14 @@
 </p>
 
 ### Personal Stuff
+
 - 🔭 I’m currently working for [Sociolla](https://www.sociolla.com/);
 - 👨🏼‍💻 **Open for Freelance Project** slicing / convert design to a website
 - 👨‍🏫 Mentor Frontend Stuff at [MOFON]()
 - 💻 All of my projects are available at [https://rizanqardafil.vercel.app/](https://rizanqardafil.vercel.app/)
 - 💬 Ask me about Javascript, CSS, UX Reasearch, and Scrum, I am happy to help;
 - 📝 I regulary write articles on []()
-- 📫 How to reach me: [@R1z4n](https://twitter.com/R1z4n) or email me at **rizanqardafil.dev@gmail.com**  ;
-
+- 📫 How to reach me: [@R1z4n](https://twitter.com/R1z4n) or email me at **rizanqardafil.dev@gmail.com** ;
 
 ### Github Stats
 
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-    <a href="https://linkedin.com/in/naufaldirafif" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naufaldi" height="30" width="30" /></a>
-    <a href="https://twitter.com/f2aldi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="naufaldi" height="30" width="30" /></a>
-    <a href="https://medium.com/@naufaldi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pbteja1998" height="30" width="30" /></a>    
+    <a href="https://linkedin.com/in/rizanqardafil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naufaldi" height="30" width="30" /></a>
+    <a href="https://twitter.com/R1z4n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="naufaldi" height="30" width="30" /></a>
+    <a href="https://medium.com/@rizanqardafil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pbteja1998" height="30" width="30" /></a>    
 </p>
