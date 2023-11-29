@@ -1,4 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rizan Qardafil ✨</h1>
+<p dir="auto">
+      <animated-image data-catalyst="">
+            <a href="#" rel="nofollow" data-target="#" hidden="">
+                  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;" data-target="animated-image.originalImage" hidden="">
+            </a>
+            <span class="AnimatedImagePlayer" data-target="animated-image.player">
+              <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="#"></a>
+            </span>
+      </animated-image>
+</p>
 <h3 align="center">A Senior Software Engineer, Senior Artificial Intelligence, Senior Data Scientist and Analyst, An Mentor and A Blogger</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rizanqardafil" alt="rizanqardafil" /> </p>
@@ -11,16 +21,7 @@
     <img src="https://img.shields.io/twitter/follow/R1z4n?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
-<p dir="auto">
-      <animated-image data-catalyst="">
-            <a href="#" rel="nofollow" data-target="#" hidden="">
-                  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;" data-target="animated-image.originalImage" hidden="">
-            </a>
-            <span class="AnimatedImagePlayer" data-target="animated-image.player">
-              <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="#"></a>
-            </span>
-      </animated-image>
-</p>
+
 
 ### Personal Stuff
 
