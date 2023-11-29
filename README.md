@@ -19,7 +19,7 @@
 - 💻 All of my projects are available at [https://rizanqardafil.vercel.app/](https://rizanqardafil.vercel.app/)
 - 💬 Ask me about Javascript, CSS, UX Reasearch, and Scrum, I am happy to help;
 - 📝 I regulary write articles on []()
-- 📫 How to reach me: [@f2aldi](https://twitter.com/R1z4n) or email me at **rizanqardafil.dev@gmail.com**  ;
+- 📫 How to reach me: [@R1z4n](https://twitter.com/R1z4n) or email me at **rizanqardafil.dev@gmail.com**  ;
 
 
 ### Github Stats
