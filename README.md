@@ -25,7 +25,7 @@
 ### Github Stats
 
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=naufaldi&show_icons=true" alt="naufaldi" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizanqardafil&show_icons=true" alt="rizanqardafil" />
 </p>
 
 <p align="center">
