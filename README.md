@@ -78,10 +78,6 @@
   </p>
 
 
-### 📊 Stats
-
-[![Metrics](./github-metrics.svg)](https://rizanqardafil.vercel.app/)
-
 ## 👨🏻‍💻 WakaTime Stats
 
 <!--START_SECTION:waka-->
