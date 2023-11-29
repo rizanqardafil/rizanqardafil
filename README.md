@@ -38,6 +38,9 @@
     <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%23ED8B00.svg?style=flat&logo=sqlite&logoColor=white)"/>
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%23777BB4.svg?style=flat&logo=mysql&logoColor=white"/>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white"/>
+    <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FFA000?style=flat&logo=tensorflow&logoColor=white"/>
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-00ACC1?style=flat&logo=numpy&logoColor=white"/>
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-1A237E?style=flat&logo=pandas&logoColor=white"/>
   </p>
   <p>
     <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
