@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rizan Qardafil</h1>
 <h3 align="center">A Senior Software Engineer, Senior Artificial Intelligence, Senior Data Scientist and Analyst, An Mentor and A Blogger</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=naufaldi" alt="naufaldi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rizanqardafil" alt="rizanqardafil" /> </p>
 
 <p align="center">
-  <a href="https://github.com/naufaldi?tab=followers">
+  <a href="https://github.com/rizanqardafil?tab=followers">
     <img src="https://img.shields.io/github/followers/naufaldi?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/f2aldi">
-    <img src="https://img.shields.io/twitter/follow/f2aldi?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="http://twitter.com/R1z4n">
+    <img src="https://img.shields.io/twitter/follow/R1z4n?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
 
