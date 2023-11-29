@@ -23,9 +23,11 @@
 - 📫 How to reach me: [@R1z4n](https://twitter.com/R1z4n) or email me at **rizanqardafil.dev@gmail.com** ;
 
 ### 👨‍💻 Tech Stack & Tools
-- Experienced in : 
+
+- Experienced in :
   <p></p>
   <p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-0000EE?style=flat&logo=python&logoColor=white"/>
     <img alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white"/>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white"/>
@@ -45,7 +47,7 @@
     <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"/>
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
   </p>
-- Currently learning : 
+- Currently learning :
   <p></p>
   <p>
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
@@ -57,8 +59,9 @@
     <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white"/>
     <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white"/>
   </p>
-  
+
 ### 💡 Github Stats
+
 <table>
   <thead>
     <tr>
@@ -81,9 +84,9 @@
     <a href="https://linkedin.com/in/rizanqardafil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naufaldi" height="30" width="30" /></a>
     <a href="https://twitter.com/R1z4n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="naufaldi" height="30" width="30" /></a>
     <a href="https://medium.com/@rizanqardafil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pbteja1998" height="30" width="30" /></a>    
-</p> 
+</p>
 
-<!--  
+<!--
 
 ### Github Stats
 
@@ -94,5 +97,5 @@
 <p align="center">
     <a href="https://linkedin.com/in/rizanqardafil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naufaldi" height="30" width="30" /></a>
     <a href="https://twitter.com/R1z4n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="naufaldi" height="30" width="30" /></a>
-    <a href="https://medium.com/@rizanqardafil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pbteja1998" height="30" width="30" /></a>    
+    <a href="https://medium.com/@rizanqardafil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pbteja1998" height="30" width="30" /></a>
 </p> -->
